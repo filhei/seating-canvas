@@ -1,0 +1,1 @@
+Development build [Work in progress]: canvas editor for seating charts. Mobile devices currently not supported (use Desktop view instead).
